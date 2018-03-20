@@ -1,0 +1,18 @@
+1. What happens when you type a site URL in the browser window?
+https://www.youtube.com/watch?v=5mKbcAvlH0I
+
+https://www.youtube.com/watch?v=fJXTFI47oUk
+
+2. How to Reduce Website Page load time
+
+https://www.youtube.com/watch?v=yovnkPGxwtw
+
+https://www.crazyegg.com/blog/speed-up-your-website/
+
+
+3. HTTP Request and Response:
+https://www.youtube.com/watch?v=eesqK59rhGA
+
+4. Interview questions:
+https://www.youtube.com/watch?v=eesqK59rhGA
+
