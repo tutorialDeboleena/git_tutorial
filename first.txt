@@ -1,2 +1,2 @@
-echo "HI"
-Git Tutorias
+echo "Hello"
+Git Tutorials
