@@ -16,3 +16,10 @@ https://www.youtube.com/watch?v=eesqK59rhGA
 4. Interview questions:
 https://www.youtube.com/watch?v=eesqK59rhGA
 
+5. Git stash tutorial :
+	https://www.youtube.com/watch?v=KLEDKgMmbBI&t=198s
+
+6. Git branch tutorial:
+
+	https://www.youtube.com/watch?v=JTE2Fn_sCZs
+
